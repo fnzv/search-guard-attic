@@ -1,21 +1,9 @@
-#Search Guard for Elasticsearch 2.1 **ALPHA 1**
+# This was a preview version of Search Guard 2 and is no longer maintained.
 
-First alpha release for Search Guard 2 (compatible with Elasticsearch 2.1)
+* [Search Guard 2 is available here](https://github.com/floragunncom/search-guard/tree2.2) 
 
-Second alpha release for Search Guard 2 (compatible with Elasticsearch 2.2) is here: https://github.com/floragunncom/search-guard/tree/2.2
-
-##Roadmap
-This is almost a complete rewrite of Search Guard 1 which comes with a lot of new features:
-
-* Configuration hot reloading
-* Open SSL support
-* Easier to configure
- * Syntax is more easy
- * Admin CLI tool introduced (sgadmin)
- 
-This the first alpha release which is not yet feature complete. Currently only password based authentication and authorization is support and only HTTP basic as the HTTP authentication method.
-
-We expect to release one or two more alpha versions in January 2016 and two betas in February. By end of February the RC should be ready for release. Thats also the point in time we will start our commercial support.
+***
+***
 
 ##Installation
 
