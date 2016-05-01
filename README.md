@@ -1,29 +1,15 @@
-# Search Guard Security Plugin for ES 1.x
+# This version of Search Guard is no longer maintained.
+
+* Please refer to the [Wiki](https://github.com/floragunncom/search-guard-attic/wiki) for mkore informations.
+* [Search Guard 2 is available here](https://github.com/floragunncom/search-guard/tree2.2) 
+
+![outdated](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ambox_warning_pn.svg/200px-Ambox_warning_pn.svg.png)
+
+***
+***
+
+## Search Guard Security Plugin for ES 1.x
 Elasticsearch security for free.
-
-##Search Guard for Elasticsearch 2 is coming in Feb. 2016
-
-Search Guard is a free and open source plugin for Elasticsearch which provides security features. Currently only Elasticsearch 1.5, 1.6 and 1.7 is supported, Search Guard for Elasticsearch 2 is coming in Feb. 2016.
-Second alpha version for [Search Guard 2 is available here](https://github.com/floragunncom/search-guard/tree2.2) 
-
-If you need "only" SSL for Elasticsearch 2 have a look here: https://github.com/floragunncom/search-guard-ssl
-
-![Logo](https://raw.githubusercontent.com/floragunncom/sg-assets/master/logo/sg_logo_small.jpg) 
-
-
-[![Build Status](https://travis-ci.org/floragunncom/search-guard.svg?branch=es1.7)](https://travis-ci.org/floragunncom/search-guard) [![Coverage Status](https://coveralls.io/repos/floragunncom/search-guard/badge.svg?branch=es1.7)](https://coveralls.io/r/floragunncom/search-guard?branch=es1.7)
-
-##Other Versions
-* ES 2.2 https://github.com/floragunncom/search-guard/tree/2.2
-* ES 1.5 https://github.com/floragunncom/search-guard/tree/es1.5
-* ES 1.6 https://github.com/floragunncom/search-guard/tree/es1.6
-* ES 1.7 https://github.com/floragunncom/search-guard/tree/es1.7
-* ES 1.x https://github.com/floragunncom/search-guard/tree/master
-
-
-##Support
-* Community support available via [google groups](https://groups.google.com/forum/#!forum/search-guard)
-* Commercial support through [floragunn UG](http://floragunn.com) available Februar 2016
 
 ##Features
 * Flexible REST layer access control (User/Role based; on aliases, indices and types)
